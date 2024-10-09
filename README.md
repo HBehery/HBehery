@@ -26,3 +26,5 @@ Given that you've stumbled upon my page, you should probably also know that I:
 -  often find myself doing some sort of physical activity
 
 Feel free to message me at: [linkedin](https://www.linkedin.com/in/hamzah-behery/) | [hamzahbehery@gmail.com](hamzahbehery@gmail.com)
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,py,pytorch,html,css,tailwind,vercel,nodejs,nextjs,postgres,docker,flutter)](https://skillicons.dev)
