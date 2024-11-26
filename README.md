@@ -27,4 +27,4 @@ Given that you've stumbled upon my page, you should probably also know that I:
 
 Feel free to message me at: [linkedin](https://www.linkedin.com/in/hamzah-behery/) | [hamzahbehery@gmail.com](hamzahbehery@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,vercel,nodejs,nextjs,postgres,py,pytorch,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,py,tailwind,vercel,nodejs,nextjs,postgres,pytorch,docker)](https://skillicons.dev)
