@@ -23,7 +23,7 @@ This is my corner of the internet where I depart on many tech-related endeavours
 Given that you've stumbled upon my page, you should probably also know that I:
 -  enjoy new experiences
 -  drink lots of water
--  often find myself doing some sort of physical activity
+-  like moving around
 
 Message me at: [linkedin](https://www.linkedin.com/in/hamzah-behery/) | [hamzahbehery@gmail.com](hamzahbehery@gmail.com)
 
