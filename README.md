@@ -1,7 +1,7 @@
 **Hi, I'm Hamzah 🔭**
 
 This is my corner of the internet where I depart on many tech-related endeavours:
-- constantly updating my [website](https://hamzahbehery.xyz) (always open to exploring new React libraries!)
+- constantly updating my [website](https://hamzahbehery.xyz) (always open to exploring new libraries, link some my way)
 - lots of [fullstack development](https://github.com/HBehery/realityquest)
 - passion projects and initiatives (reach out to collaborate, I'm probably interested ✌️)
 
